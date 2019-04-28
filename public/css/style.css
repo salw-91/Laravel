@@ -1,0 +1,48 @@
+.alert {
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+    font-size: 25px;
+    }
+.btn.btn-dark{
+    margin: 10px;
+    margin-left: 10%;
+    float:left;
+}
+.title{
+    display: flex;
+    list-style: none;
+    justify-content:center;
+}
+
+.title-klant, .title-auto {
+    width: 40%;
+    margin: 2%;
+    text-align: center;
+}
+
+.title-klant li, .title-auto li{
+    margin: 5px;
+
+
+}
+.title-klant li a , .title-auto li a{
+    width: 200px;
+
+}
+
+.loginbutton, li{
+    list-style: none;
+}
+
+.posts{
+    
+    margin-left: 50px;
+}
+
+.nav-link{
+    color: rgb(189, 189, 189) ;
+}
+.nav-link:hover{
+    color: rgb(245, 245, 245) ;
+}
